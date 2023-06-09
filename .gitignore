@@ -1,0 +1,8 @@
+/out/
+*.aux
+*.log
+*.xml
+*.gz
+*.toc
+*.out
+thesis-blx.bib
